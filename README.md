@@ -1,2 +1,2 @@
 # LunarLanderControl
-Lunar Lander Control, industrial programming
+Lunar Lander Control, Flowchart
